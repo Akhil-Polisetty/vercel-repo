@@ -1,0 +1,15 @@
+.dummy-cont
+{
+    background-color: #287352;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cont
+{
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+}
